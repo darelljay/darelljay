@@ -1,7 +1,7 @@
 ### Welcome to my github 👋
 
 
-###🔭 I’m currently working on Node js
+### 🔭 I’m currently working on Node js
 ### 🌱 I’m currently learning React.js
 ### 💬 Ask me about anything
 ### 📫 How to reach me: instagram
