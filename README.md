@@ -7,11 +7,11 @@
 
 <h2 align="center">Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,python,react,mongo,mysql,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,python,react,mongo,mysql)](https://skillicons.dev)
 
 <h2>🌱 I’m currently learning</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=django,vite,java,androidstudio,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,vite,java,androidstudio,r,php)](https://skillicons.dev)
 
 <h2>📫 contact me</h2>
 <div>
