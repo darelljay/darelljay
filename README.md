@@ -22,7 +22,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darelljay&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darelljay&layout=compact&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=darelljay)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=darelljay&theme=dark)](https://git.io/streak-stats)
 <h2>🏆 trophy</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=darelljay&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
