@@ -12,7 +12,7 @@
 </div><br>
 <div>
   <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=darelljay&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
-  <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darelljay&layout=compact&theme=nord&hide_border=true" /></a> 
+  <a href="https://github.com/darelljay"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darelljay&layout=compact" /></a> 
 </div>
 <br>
 <h2>Portfolio</h2>
