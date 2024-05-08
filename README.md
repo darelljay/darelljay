@@ -12,7 +12,9 @@
 </div><br>
 <div>
   <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=darelljay&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
-  <a href="https://github.com/darelljay"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darelljay&layout=compact" /></a> 
+  <a href="https://github.com/darelljay"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darelljay&layout=compact" /></a>
+  <br>
+  <a href="https://opgc.me/#/users/darelljay" target="_blank"><img src="https://api.opgc.me/githubs/users/darelljay/tag/?theme=basic" /></a>
 </div>
 <br>
 <h2>Portfolio</h2>
