@@ -14,7 +14,7 @@
   <a href="https://github.com/darelljay"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darelljay&layout=compact" /></a>
   <br>
   <a href="https://opgc.me/#/users/darelljay" target="_blank"><img src="https://api.opgc.me/githubs/users/darelljay/tag/?theme=basic" /></a>
+<a href="http://mazassumnida.wtf/api/generate_badge?boj=darelljay)"><img src="http://mazassumnida.wtf/api/generate_badge?boj=darelljay"/></a>
 </div>
-<br>
 <h2>Portfolio</h2>
 <a href="https://www.canva.com/design/DAFy4RDB--U/ACAxzpJlsbRoMLMgn8egWQ/view?utm_content=DAFy4RDB--U&utm_campaign=designshare&utm_medium=link&utm_source=editor" style="color:#fff;">다렐제이슨 포트폴리오</a>
