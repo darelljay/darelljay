@@ -1,16 +1,16 @@
-# 👋 안녕하세요, 다렐 제이슨입니다!
+# 👋 Hi, I'm Darell Jason!
 
-백엔드 개발자를 꿈꾸며 성장하고 있는 개발 지망생입니다.  
-NestJS, Node.js, TypeScript 기반의 웹 서버 개발에 관심이 많으며, 현재는 자료구조와 알고리즘을 집중적으로 공부하고 있습니다.
+I'm an aspiring backend developer passionate about building scalable web services.  
+Currently, I'm focusing on studying data structures and algorithms, and I have a strong interest in building web servers using **NestJS**, **Node.js**, and **TypeScript**.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 서울디지텍고등학교 졸업
-- 🧩 웹 백엔드 개발자 지망
-- 📚 자료구조와 알고리즘 학습 중
-- 💬 기술 블로그와 오픈소스에도 관심 있음(관심만 있음)
+- 🎓 HUFS - Computer Science major  
+- 🧩 Aspiring web backend developer  
+- 📚 Studying data structures and algorithms  
+- 💬 Interested in tech blogging and open source (just interest for now 😅)
 
 ---
 
@@ -49,16 +49,16 @@ NestJS, Node.js, TypeScript 기반의 웹 서버 개발에 관심이 많으며, 
 
 ## 🚀 Portfolio
 
-- [🧾 다렐 제이슨 포트폴리오 (Canva)](https://www.canva.com/design/DAFy4RDB--U/ACAxzpJlsbRoMLMgn8egWQ/view?utm_content=DAFy4RDB--U&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- [🧾 Darell Jason Portfolio (Canva)](https://www.canva.com/design/DAFy4RDB--U/ACAxzpJlsbRoMLMgn8egWQ/view?utm_content=DAFy4RDB--U&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ---
 
 ## 🪄 Contact & More
 
-- 📧 Email: <darelljason1@gmail.com>
-- 🧠 백준: [darelljay](https://www.acmicpc.net/user/darelljay)
+- 📧 Email: <darelljason1@gmail.com>  
+- 🧠 BOJ: [darelljay](https://www.acmicpc.net/user/darelljay)  
 - 💼 OPGC: [darelljay](https://opgc.me/#/users/darelljay)
 
 ---
 
-> 꾸준히 성장하고 기록하는 백엔드 개발자가 되겠습니다. 👨‍💻🔥
+> I’m committed to becoming a consistent, growing backend developer who builds and shares with purpose. 👨‍💻🔥
