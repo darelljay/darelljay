@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Darell Jason!
+# 👋 Hi, I'm Jason Darell!
 
 I'm an aspiring backend developer passionate about building scalable web services.  
 Currently, I'm focusing on studying data structures and algorithms, and I have a strong interest in building web servers using **NestJS**, **Node.js**, and **TypeScript**.
